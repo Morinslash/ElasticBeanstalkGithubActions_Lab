@@ -1,0 +1,1 @@
+Laboratory to use as an example of CI/CD pipeline with Github Actions and automated deployment to AWS ElasticBeanstalk service.
